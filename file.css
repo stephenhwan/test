@@ -1,0 +1,16 @@
+/* Định nghĩa phông chữ và màu sắc cho toàn bộ trang web */
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+/* Định nghĩa kiểu liên kết */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+/* Định nghĩa kiểu liên kết khi rê chuột vào */
+a:hover {
+  text-decoration: underline;
+}
